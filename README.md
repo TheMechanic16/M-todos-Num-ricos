@@ -1,2 +1,2 @@
-# Metodos Numéricos
+# Métodos Numéricos
 Agrupación de implementaciones de métodos numéricos
